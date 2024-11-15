@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+config/credentials.yml
+
+# Logs
+logs/
+
+# Virtual environments
+venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp

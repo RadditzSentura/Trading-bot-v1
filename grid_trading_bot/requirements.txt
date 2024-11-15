@@ -1,0 +1,8 @@
+ccxt
+PyYAML
+numpy
+pandas
+ta  # Technical Analysis library
+pytest
+python-dotenv
+sentry-sdk
